@@ -3,7 +3,7 @@
 Kodein
 ------
 
-![JCenter](https://api.bintray.com/packages/kodein-framework/Kodein-DI/Kodein-DI/images/download.svg)](https://bintray.com/kodein-framework/Kodein-DI)
+![JCenter](https://api.bintray.com/packages/kodein-framework/Kodein-DI/Kodein-DI/images/download.svg)
 
 ```groove
   implementation "org.kodein.di:kodein-di-generic-jvm:6.1.0"
